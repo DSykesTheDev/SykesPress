@@ -1,0 +1,13 @@
+total 41
+drwxr-xr-x 1 Dell Lat 197609    0 Dec  8 23:25 .
+drwxr-xr-x 1 Dell Lat 197609    0 Dec  8 15:57 ..
+drwxr-xr-x 1 Dell Lat 197609    0 Dec  8 19:06 .git
+-rw-r--r-- 1 Dell Lat 197609    0 Dec  8 19:05 .gitignore
+drwxr-xr-x 1 Dell Lat 197609    0 Dec  8 18:35 assets
+-rw-r--r-- 1 Dell Lat 197609  161 Nov  1 20:10 footer.php
+-rw-r--r-- 1 Dell Lat 197609  903 Dec  8 23:23 functions.php
+-rw-r--r-- 1 Dell Lat 197609 1380 Dec  8 18:23 header.php
+-rw-r--r-- 1 Dell Lat 197609  208 Dec  8 15:27 index.php
+-rw-r--r-- 1 Dell Lat 197609 9099 Nov  1 20:29 screenshot.png
+-rw-r--r-- 1 Dell Lat 197609 1576 Dec  8 18:22 style.css
+-rw-r--r-- 1 Dell Lat 197609    0 Dec  8 23:27 text.txt
